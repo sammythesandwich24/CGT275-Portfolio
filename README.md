@@ -1,13 +1,14 @@
-# CGT270_EPortfolio
-CGT-270-Data-Visualization-ePortfolio-0033868521\
-A portfolio for CGT 270 Data Visualization course at Purdue University.\
+# CGT275_EPortfolio
+CGT-275-Data-Visualization-ePortfolio-0033868521\
+A portfolio for CGT 275 Data Visualization course at Purdue University.\
 Directory Structure\
-The main directory is divided into 4 sub-directories:\
+The main directory is divided into 6 sub-directories:\
 • Assignments - Contains three sub-folders:\
-  	&emsp;• Lab assignments - Contains lab assignments with visualizaitons and supporting write-ups for different stages of the data visualization process.\
-  	&emsp;• Self assessments - Contains responses for self assessment surveys for different stages of the data visualization process.\
-  	&emsp;• In class assignments - Contains in class assignments ranging from data collection to visualization and crtiquing.\
-• Makeover Mondays - Contains visualizations created/refined for 4 weeks during which students participated in makeover monday challenge.\
-• Data Visualization Hackathon - The final group project for the class.\
-• Miscellaneous - Contains visualizations students created for enhancing their skills, or
-out of pure interest. A separate folder is created for each different tool used to create the visualization.
+  	&emsp;• A1 Analytical Detective - Contains files for analytic detective assignment\
+  	&emsp;• GIS Lab 1 - Contains files for GIS lab 1\
+  	&emsp;• GIS Lab 2 - Contains files for GIS lab 2\
+• Class Participation - Contains all assignments under class participation category on Brightspace\
+• Final Research Project - The final project for the class\
+• Lab Assignments - Contains all labs submitted for the course\
+• Review - Contains all Pivot Table & Charts exercises\
+• Undergrad Research Symposium - Contains all material submitted under Undergrad Research Symposium category on Brightspace\
