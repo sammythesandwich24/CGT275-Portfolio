@@ -1,0 +1,2 @@
+﻿Country,Indicator,"Indicator Code",Period,DisaggregationId,Disaggregation,DatasourceId,"Data Source",MeasurementMethodId,"Measurement Method",Value
+"SOUTH SUDAN","Annual mean levels of fine particulate matter in cities, urban population (micrograms per cubic meter)",AFR0121,2014,29,Total,3,"WHO/Global Health Observatory",11,"micrograms per cubic meter",32.5

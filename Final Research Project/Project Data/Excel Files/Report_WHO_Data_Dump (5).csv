@@ -1,0 +1,4 @@
+WHO_Data_Dump
+
+Location,LocationCode,Year,CategoryId,Category,DatasourceId,DataSource,Measure,MeasureMethod,Numerator,Denominator,Has_Denominator,Target,Has_Target,IsNumeric
+"SOUTH SUDAN","SS","2019","28","Both sexes (male and female)","37","IDF","7017.00","Count (Numeric Integer)","","","false","","false","true",

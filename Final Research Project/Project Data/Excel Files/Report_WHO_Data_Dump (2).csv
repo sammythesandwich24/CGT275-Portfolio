@@ -1,0 +1,9 @@
+WHO_Data_Dump
+
+Location,LocationCode,Year,CategoryId,Category,DatasourceId,DataSource,Measure,MeasureMethod,Numerator,Denominator,Has_Denominator,Target,Has_Target,IsNumeric
+"SOUTH SUDAN","SS","2011","11","Rural","3","WHO / GHO","4.32","Percentage","","","false","90","true","true",
+"SOUTH SUDAN","SS","2012","11","Rural","3","WHO / GHO","4.83","Percentage","","","false","90","true","true",
+"SOUTH SUDAN","SS","2014","11","Rural","3","WHO / GHO","5.86","Percentage","","","false","90","true","true",
+"SOUTH SUDAN","SS","2015","11","Rural","3","WHO / GHO","6.37","Percentage","","","false","90","true","true",
+"SOUTH SUDAN","SS","2016","11","Rural","3","WHO / GHO","4.99","Percentage","","","false","90","true","true",
+"SOUTH SUDAN","SS","2017","11","Rural","3","WHO / GHO","5.20","Percentage","","","false","90","true","true",

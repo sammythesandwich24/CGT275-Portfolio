@@ -1,0 +1,7 @@
+WHO_Data_Dump
+
+Location,LocationCode,Year,CategoryId,Category,DatasourceId,DataSource,Measure,MeasureMethod,Numerator,Denominator,Has_Denominator,Target,Has_Target,IsNumeric
+"SOUTH SUDAN","SS","2011","11","Rural","7","DHS","40.93","Percentage","","","false","","false","true",
+"SOUTH SUDAN","SS","2012","11","Rural","7","DHS","42.77","Percentage","","","false","","false","true",
+"SOUTH SUDAN","SS","2014","11","Rural","7","DHS","46.45","Percentage","","","false","","false","true",
+"SOUTH SUDAN","SS","2015","11","Rural","7","DHS","48.30","Percentage","","","false","","false","true",
